@@ -1,18 +1,18 @@
 {
   "name": "browser.js",
-  "version": "0.0.1",
-  "homepage": "",
-  "description": "",
+  "version": "0.0.2",
+  "homepage": "https://github.com/lotterfriends/browser.js",
+  "description": "browser detection",
   "author": {
     "name": "André Tarnowsky",
     "email": "andre@tarnowsky.de"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/lotterfriends/browser.js"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/lotterfriends/browser.js/issues"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
