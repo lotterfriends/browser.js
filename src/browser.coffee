@@ -1,6 +1,6 @@
 # Browser.js
 
-window.device = {}
+window.browser = {}
 _user_agent = window.navigator.userAgent.toLowerCase()
 
 browser.isOpera = ->
