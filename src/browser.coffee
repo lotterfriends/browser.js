@@ -1,5 +1,8 @@
 # Browser.js
 
+window.device = {}
+_user_agent = window.navigator.userAgent.toLowerCase()
+
 browser.isOpera = ->
   !!window.opera || _find(' OPR/') >= 0
 
